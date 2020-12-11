@@ -1,0 +1,3 @@
+[submodule "Zento/vendor/spdlog"]
+	path = Zento/vendor/spdlog
+	url = https://github.com/gabime/spdlog

@@ -6,7 +6,9 @@ extern Zento::Application* Zento::CreateApplication();
 
 int main(int argc, char** argv)
 {
-	printf("Zento CAD\n");
+	Zento::Log::Init();
+	ZNT_CORE_INFO("Initialised Log...");
+	ZNT_INFO("Initialised Client...");
 	auto app = Zento::CreateApplication();
 	app->Run();
 	delete app;

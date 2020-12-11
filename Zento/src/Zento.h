@@ -3,7 +3,7 @@
 // FOR APPLICATION USE
 
 #include "Zento/Application.h"
-#include <stdio.h>
+#include "Zento/Log.h"
 
 // -----------== Entry Point ==-----------------
 #include "Zento/EntryPoint.h"
