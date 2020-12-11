@@ -13,9 +13,6 @@
     <ClInclude Include="src\Zento\Core.h">
       <Filter>Zento</Filter>
     </ClInclude>
-    <ClInclude Include="src\Zento\EntryPoint.h">
-      <Filter>Zento</Filter>
-    </ClInclude>
     <ClInclude Include="src\Zento\Log.h">
       <Filter>Zento</Filter>
     </ClInclude>
