@@ -16,6 +16,7 @@
     <ClInclude Include="src\Zento\Log.h">
       <Filter>Zento</Filter>
     </ClInclude>
+    <ClInclude Include="src\Zento\EntryPoint.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Zento\Application.cpp">

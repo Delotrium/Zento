@@ -146,6 +146,7 @@
     <ClInclude Include="src\Zento.h" />
     <ClInclude Include="src\Zento\Application.h" />
     <ClInclude Include="src\Zento\Core.h" />
+    <ClInclude Include="src\Zento\EntryPoint.h" />
     <ClInclude Include="src\Zento\Log.h" />
   </ItemGroup>
   <ItemGroup>
